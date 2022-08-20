@@ -1,5 +1,9 @@
 ## ROSA project
 
+RObot Simulation and Architecture (ROSA), an arguably confusing name which makes a nice acronym.
+
+The ROSA project is about the architecture and implementation of a simulator which models and simulates the interaction of objects in the "world". An object in ROSA is the basic building block of the world. Objects can evolve over time in various ways. Objects such as a table or a ball follow the laws of physics, while a robot evolves in its own way. 
+
 <!--
 
 **Here are some ideas to get you started:**
