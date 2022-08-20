@@ -1,4 +1,4 @@
-## ROSA project
+# ROSA project
 
 RObot Simulation and Architecture (ROSA), an arguably confusing name which makes a nice acronym.
 
